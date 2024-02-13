@@ -231,13 +231,13 @@ input#open {
   }
   
   .text-two:before {
-    content:"Love";
+    content: "Love";
     top:0px;
     color: #d04e4e;
   }
   
   .text-two:after {
-    content:"xxxxx❤";
+    content: "Puspa❤";
     top:60px;
     left: 90px !important;
     transform: rotate(-15deg) !important;
