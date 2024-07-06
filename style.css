@@ -237,7 +237,7 @@ input#open {
   }
   
   .text-two:after {
-    content: "Puspa❤";
+    content: "❤XYZ❤";
     top:60px;
     left: 90px !important;
     transform: rotate(-15deg) !important;
